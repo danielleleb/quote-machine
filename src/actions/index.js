@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const ROOT_URL = 'http://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=1';
+const ROOT_URL = 'https://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=1';
 
 export const FETCH_QUOTE = 'FETCH_QUOTE';
 
