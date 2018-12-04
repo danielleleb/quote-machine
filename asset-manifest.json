@@ -1,0 +1,13 @@
+{
+  "main.css": "/quote-machine/static/css/main.c774e520.chunk.css",
+  "main.js": "/quote-machine/static/js/main.30c4f232.chunk.js",
+  "main.js.map": "/quote-machine/static/js/main.30c4f232.chunk.js.map",
+  "static/js/1.4b4c72de.chunk.js": "/quote-machine/static/js/1.4b4c72de.chunk.js",
+  "static/js/1.4b4c72de.chunk.js.map": "/quote-machine/static/js/1.4b4c72de.chunk.js.map",
+  "runtime~main.js": "/quote-machine/static/js/runtime~main.22742a60.js",
+  "runtime~main.js.map": "/quote-machine/static/js/runtime~main.22742a60.js.map",
+  "static/css/main.c774e520.chunk.css.map": "/quote-machine/static/css/main.c774e520.chunk.css.map",
+  "index.html": "/quote-machine/index.html",
+  "precache-manifest.bb3f629e82b941ed7ab7b8f7e61b6d32.js": "/quote-machine/precache-manifest.bb3f629e82b941ed7ab7b8f7e61b6d32.js",
+  "service-worker.js": "/quote-machine/service-worker.js"
+}
