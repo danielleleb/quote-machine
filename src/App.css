@@ -10,5 +10,36 @@
   max-width: 900px;
   margin: 0 auto;
   border: 1px solid black;
+  box-shadow: 1px 4px 8px 0px black;
+  background-color: #781D36;
   text-align: center;
+  color: black;
+  margin-top: 100px;
+  padding: 10px;
+}
+
+a {
+  display: inline-block;
+  width: 120px;
+  line-height: 50px;
+  background-color: #FBF8FC;
+  text-align: center;
+  margin-right: 60px;
+  margin-top: 30px;
+  border-radius: 7px;
+  text-decoration: none;
+  color: #781D36;
+  box-shadow: 1px 4px 8px 0px black;
+  transition: all .1s linear;
+}
+
+a:hover {
+  background-color: #781D36;
+  color: #FBF8FC;
+}
+
+body {
+  color: #0B0C0E;
+  font-family: "Trebuchet MS";
+  background-color: #532331;
 }
